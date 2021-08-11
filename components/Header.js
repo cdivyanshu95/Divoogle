@@ -42,7 +42,7 @@ function Header() {
           </button>
         </form>
         <Avatar
-          // className="ml-auto"
+          className="ml-auto"
           url="https://images.hdqwalls.com/download/selena-gomez-revelacion-album-photoshoot-2021-5k-5s-2932x2932.jpg"
         />
       </div>
